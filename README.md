@@ -1,4 +1,13 @@
 # Cyberbullying Emotion Detection using NLP
+---
+## Output
+
+<img width="500" height="685" alt="Screenshot 2026-02-08 014652" src="https://github.com/user-attachments/assets/04a7a1c3-4f75-4faa-ae07-38886755b29f" />
+
+<img width="500" height="374" alt="image" src="https://github.com/user-attachments/assets/b498b002-a4e9-4627-8b24-45b151413507" />
+
+
+---
 
 ## 📌 Project Overview
 
