@@ -125,14 +125,3 @@ python cyberbullying_emotion_detection.py
 * Optimize inference using batch processing
 
 ---
-
-## 👩‍💻 Author
-
-**Srushti**
-B.Tech – Artificial Intelligence & Data Science
-
----
-
-## 📜 License
-
-This project is for **academic and educational purposes only**.
